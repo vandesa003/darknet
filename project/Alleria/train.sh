@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=3 ./darknet detector train project/Alleria/data/obj.data project/Alleria/configs/yolov4_alleria_default_1024.cfg project/Alleria/saved_models/pretrained/yolov4.conv.137 -mjpeg_port 8090 -map -dont_show
