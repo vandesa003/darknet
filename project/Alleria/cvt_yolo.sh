@@ -1,0 +1,1 @@
+python cvt_yolo.py -csv data/train.csv -img /data/bohang/datasets/wheat/yolo_data

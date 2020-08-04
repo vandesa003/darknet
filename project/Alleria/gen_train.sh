@@ -1,0 +1,1 @@
+python generate_train_txt.py -img /data/bohang/datasets/wheat/yolo_data -name train.txt
